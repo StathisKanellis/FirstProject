@@ -1,6 +1,0 @@
-C:\Users\Stathis\Desktop\Exercises in C#\stathis_kanellis_individual_part_a\stathis_kanellis_individual_part_a\bin\Debug\stathis_kanellis_individual_part_a.exe.config
-C:\Users\Stathis\Desktop\Exercises in C#\stathis_kanellis_individual_part_a\stathis_kanellis_individual_part_a\bin\Debug\stathis_kanellis_individual_part_a.exe
-C:\Users\Stathis\Desktop\Exercises in C#\stathis_kanellis_individual_part_a\stathis_kanellis_individual_part_a\bin\Debug\stathis_kanellis_individual_part_a.pdb
-C:\Users\Stathis\Desktop\Exercises in C#\stathis_kanellis_individual_part_a\stathis_kanellis_individual_part_a\obj\Debug\stathis_kanellis_individual_part_a.csprojAssemblyReference.cache
-C:\Users\Stathis\Desktop\Exercises in C#\stathis_kanellis_individual_part_a\stathis_kanellis_individual_part_a\obj\Debug\stathis_kanellis_individual_part_a.exe
-C:\Users\Stathis\Desktop\Exercises in C#\stathis_kanellis_individual_part_a\stathis_kanellis_individual_part_a\obj\Debug\stathis_kanellis_individual_part_a.pdb
