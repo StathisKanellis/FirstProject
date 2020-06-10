@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stathis_kanellis_individual_part_a", "stathis_kanellis_individual_part_a\stathis_kanellis_individual_part_a.csproj", "{9C29D666-1E22-4922-A528-AE93F46DFF97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C29D666-1E22-4922-A528-AE93F46DFF97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C29D666-1E22-4922-A528-AE93F46DFF97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C29D666-1E22-4922-A528-AE93F46DFF97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C29D666-1E22-4922-A528-AE93F46DFF97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41EB831F-34CA-4031-B4CE-E99212419FB2}
+	EndGlobalSection
+EndGlobal
